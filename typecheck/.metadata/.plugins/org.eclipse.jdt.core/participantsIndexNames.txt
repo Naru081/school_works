@@ -1,0 +1,5 @@
+INDEX VERSION 1.134
+D:\pleiades\2023-12\workspace\typecheck\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2396826297.index
+\poke Type\src\main\java
+D:\pleiades\2023-12\workspace\typecheck\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\656123899.index
+\poke Type\src\main\java
